@@ -1,4 +1,4 @@
-# superstore_project
+# Superstore Project
 Superstore exploratory data analysis (EDA) + Tableau visualizations
 
 ## Download dataset
