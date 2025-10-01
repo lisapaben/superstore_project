@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# kaggle token (never commit your kaggle.json)
+.kaggle/
+kaggle.json
+
+# outputs (optionally ignore heavy files)
+outputs/
+tableau/*.twbx
